@@ -2,14 +2,14 @@
   "basics": {
     "name": "Silvia Arjona Garcia",
     "label": "Student",
-    "picture": "",
+    "picture": "https://github.com/silviaarjonag.png",
     "email": "silviaag@hawaii.edu",
     "phone": "908-608-4048",
     "website": "https://silviaarjonag.github.io",
     "summary": "I am studying for a B.S in Astrophysics and a B.A. in Computer Science in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "silviaarjonag", "url": "https://github.com/silviaaarjonag" },
+      { "network": "github", "username": "silviaarjonag", "url": "https://github.com/silviaarjonag" },
       { "network": "linkedin", "username": "silviaarjonagarcia", "url": "www.linkedin.com/in/silviaarjonagarcia" }
     ] 
   },
