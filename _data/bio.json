@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S in Astrophysics and a B.A. in Computer Science in the College of Natural Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "silviaarjonag", "url": "http://github.com/silviaarjonag" },
-      { "network": "linkedin", "username": "silviaarjonagarcia", "url": "http://linkedin.com/in/silviaarjonagarcia" }
+      { "network": "github", "username": "silviaarjonag", "url": "https://github.com/silviaaarjonag" },
+      { "network": "linkedin", "username": "silviaarjonagarcia", "url": "www.linkedin.com/in/silviaarjonagarcia" }
     ] 
   },
   "interests": [
