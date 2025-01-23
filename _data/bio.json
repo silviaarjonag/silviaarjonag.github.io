@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "silviaarjonag", "url": "http://github.com/silviaarjonag" },
       { "network": "linkedin", "username": "silviaarjonagarcia", "url": "http://linkedin.com/in/silviaarjonagarcia" }
-    ]
+    ] 
   },
   "interests": [
     { "name": "Computational Astrophysics" },
