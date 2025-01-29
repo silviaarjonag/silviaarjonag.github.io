@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Tic-Tac-Toe"
 date: Fall 2024
-published: false
+published: true
 labels:
   - Java
   - Computer Science
