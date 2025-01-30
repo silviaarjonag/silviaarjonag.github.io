@@ -13,7 +13,7 @@ labels:
      class="rounded float-start pe-4" 
      src="../img/spacetimeruntime.png" >
 
-Software engineering is a field that includes problem-solving, logic, and creativity. I’m drawn to it because of its ability to solve problems across various domains, ranging from astrophysics to AI. With a foundation in Java, Python, and C/C++, I have a solid grasp of data structures and software design.
+Software engineering is a field that includes problem-solving, logic, and creativity. I’m drawn to it because of its ability to solve problems across various fields, ranging from astrophysics to AI. With a foundation in Java, Python, and C/C++, I have a solid grasp of data structures and software design.
 
 One of my main goals is to improve my ability to design efficient systems. Given my double major, there are opportunities to use computational methods to analyze astronomical data and model physical phenomena. Learning advanced programming techniques will help me tackle these complex computational challenges more effectively.
 
