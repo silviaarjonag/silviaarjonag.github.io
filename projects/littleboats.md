@@ -21,3 +21,10 @@ summary: "I went around California taking photos of sailboats in a large body of
   <img width="300px" src="../img/littleboat2.png" >
 </div>
 
+
+My sailboat photography project was a creative excursion in which I explored the Bay Area of California to capture images of sailboats in the middle of large bodies of water. The goal was to document the elegance of boats against the region’s natural beauty, including the open waters, bright skies, and iconic coasts. 
+
+As the sole photographer and planner of this project, I was responsible for finding different locations, determining the best settings for optimal lighting, and framing shots that best portrayed the sailboats. In addition to capturing images, I also worked on post-processing techniques to enhance the colors and contrast of the final photos. The project required patience, as I often had to wait for the moment when the boats were positioned perfectly within the frame.
+
+Through this experience, I developed my understanding of photography techniques. Beyond technical skills, this project reinforced the importance of persistence and creativity in capturing visually engaging imagery. It was an experience that combined my love for exploration with my passion for photography.
+
