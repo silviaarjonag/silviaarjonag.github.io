@@ -26,14 +26,23 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub", "VSCode", "jGRASP" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Astrophysics and Computer Science (expected Spring, 2018)",
-      "studyType": "B.S., B.A.",
+      "area": "Astrophysics (expected Spring, 2027)",
+      "studyType": "B.S.",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
@@ -42,70 +51,73 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Mathnasium",
+      "position": "Instructor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-03-01",
+      "endDate": "2024-05-10",
+      "summary": "Work with children ages 4-18 on different levels of math.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Collaborate with other instructors to optimize teaching",
+        "Make sure students are getting enough one-on-one time"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Quiksilver",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2023-09-04",
+      "endDate": "2023-11-15",
+      "summary": "Worked as a sales associate at Quiksilver in Honolulu",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Attend to customer's needs and questions",
+        "Responsible for working the register",
+        "Making sure space was clean and organized"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "University of Hawaii Society of Physics Students",
+      "website": "https://www.phys.hawaii.edu/~sps/",
+      "position": "Member",
+      "startDate": "2025-01-28",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Member of the society",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
-      "organization": "",
+      "organization": "University of Hawaii Chamber Singers",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member",
+      "startDate": "2023-08-21",
+      "endDate": "2024-12-07",
+      "summary": "Member of the premier choral group at UH",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Perform at several concerts at various venues throughout the semester",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List Fall 2024",
+      "date": "Fall 2024",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "Dean's List Spring 2024",
+      "date": "Spring 2024",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)."
+    },
+    {
+      "title": "Dean's List Fall 2023",
+      "date": "Fall 2023",
+      "awarder": "University of Hawaii",
+      "summary": "Undergraduate students are awarded the Dean's List distinction when they earn a semester GPA of 3.5 or higher based on 12 credits or more and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)."
   ],
   "references": [
     {
