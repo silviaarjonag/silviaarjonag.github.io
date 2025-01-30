@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/watchStore.png
 title: "Watch Store"
-date: Fall 2024
+date: Fall 2024 
 published: true
 labels:
   - Java
