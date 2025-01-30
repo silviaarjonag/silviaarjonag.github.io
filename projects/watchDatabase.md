@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/watchStore.png
+image: img/tictactoeimage.png
 title: "Watch Store"
 date: Fall 2024 
 published: true
