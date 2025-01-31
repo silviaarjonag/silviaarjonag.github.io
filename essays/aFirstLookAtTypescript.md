@@ -14,7 +14,7 @@ labels:
      src="../img/TS.png" >
 
 ## First Impressions of TypeScript
-Coming from a background in mostly Java and C/C++, my initial experience with TypeScript was both exciting and overwhelming. The syntax was difficult to understand at first, never having really used JavaScipt either. But I think the more I work with it, the more I comprehend it and the more sense it makes. However, adapting to its strict type system requires some patience.
+Coming from a background in mostly Java and C/C++, my initial experience with TypeScript was both exciting and overwhelming. The syntax was difficult to understand at first, never having really used JavaScript either. But I think the more I work with it, the more I comprehend it and the more sense it makes. However, adapting to its strict type system requires some patience.
 
 ## TypeScript vs. Other Programming Languages
 Having worked with Java, C/C++, and a little bit of Python, I find TypeScript to be sort of a middle ground. It has JavaScript’s flexibility but also introduces type safety. Unlike Python, which relies on runtime error handling, TypeScript identifies issues before execution. TypeScript seems to be very clear and simple compared to other languages, which allows for inexperienced developers to understand it much quicker.
