@@ -19,7 +19,7 @@ As software engineers, good communication is one of the most important skills we
 ## The Smart Question: Optimizing C++ Code
 One example of a smart question can be found in this StackOverflow post: 
 
-[Can I write while(auto p = get_optional<pair<any, T>>()) smarter in modern C++?]([https://github.com/silviaarjonag/tic-tac-toe](https://stackoverflow.com/questions/79401448/can-i-write-whileauto-p-getoptionalpair-any-smarter-in-modern-c))
+[Can I write while(auto p = get_optional<pair<any, T>>()) smarter in modern C++?](https://stackoverflow.com/questions/79401448/can-i-write-whileauto-p-getoptionalpair-any-smarter-in-modern-c)
 
 In this question, the user asks whether the following C++ code can be written more effectively using modern C++ practices:
 
