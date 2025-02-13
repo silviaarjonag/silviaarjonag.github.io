@@ -10,6 +10,11 @@ labels:
   - VSCode
   - Computer Science
 ---
+
+<img width="300px" 
+     class="rounded float-start pe-4" 
+     src="../img/condingstandards.png" >
+
 ## The Importance of Coding Standards: More Than Just Style
 When people think of coding standards, they often focus on minor formatting rules (don't worry—I thought this too). But true coding standards go farther than aesthetics, they improve readability, maintainability, and even help us learn a language more effectively. Actually, I am starting to believe that coding standards can be a very useful tool for mastering a new language.
 
