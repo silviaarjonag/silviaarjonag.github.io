@@ -11,12 +11,12 @@ labels:
   - Computer Science
 ---
 
-<img width="300px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
-     src="../img/techmindsmeetup.HEIC" >
+     src="../img/techmindsmeetup.jpg" >
 
 ### 2025 Tech Minds Meetup
-On Wednesday, February 12, 2025, I attended the Tech Minds Meetup at the Walter Dods Jr. RISE Center. This event brought together over 40 software engineers, company founders, product managers, and tech professionals from both local and global companies. Students were invited to present and pitch software ideas to industry experts and engage in 15-minute discussions with them.
+On Wednesday, February 12, 2025, I attended the Tech Minds Meetup at the Walter Dods Jr. RISE Center with two of my friends. This event brought together over 40 software engineers, company founders, product managers, and tech professionals from both local and global companies. Students were invited to present and pitch software ideas to industry experts and engage in 15-minute discussions with them.
 
 ## Aaron Boodman: Company Founder
 I had the opportunity to speak with Aaron Boodman, founder and CEO of Rocicorp, a company dedicated to creating high-quality tools for web developers. We discussed his role as a company founder and the journey that led him to establish Rocicorp. I was interested in the programming languages he uses in his work, to which he explained that TypeScript and Python are his primary choices. He shared his insights on the strengths and challenges of these languages, explaining that while TypeScript is relatively easy to learn, many of its tools are a bit outdated and difficult to work with.
