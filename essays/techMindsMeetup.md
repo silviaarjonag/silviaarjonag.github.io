@@ -11,11 +11,10 @@ labels:
   - Computer Science
 ---
 
-<img width="400px" 
+<img 
      class="rounded float-start pe-4" 
      src="../img/techmindsmeetup.jpg" >
 
-### 2025 Tech Minds Meetup
 On Wednesday, February 12, 2025, I attended the Tech Minds Meetup at the Walter Dods Jr. RISE Center with two of my friends. This event brought together over 40 software engineers, company founders, product managers, and tech professionals from both local and global companies. Students were invited to present and pitch software ideas to industry experts and engage in 15-minute discussions with them.
 
 ## Aaron Boodman: Company Founder
