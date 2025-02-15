@@ -12,7 +12,7 @@ labels:
 ---
 
 <img 
-  src="img/techminds.png" 
+  src="../img/techminds.png" 
   class="rounded float-start pe-4" 
   style="max-width: 30%; height: auto;">
 
