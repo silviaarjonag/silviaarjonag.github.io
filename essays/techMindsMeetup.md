@@ -14,7 +14,7 @@ labels:
 <img 
   src="img/techminds.png" 
   class="rounded float-start pe-4" 
-  style="max-width: 80%; height: auto;">
+  style="max-width: 30%; height: auto;">
 
 On Wednesday, February 12, 2025, I attended the Tech Minds Meetup at the Walter Dods Jr. RISE Center with two of my friends. This event brought together over 40 software engineers, company founders, product managers, and tech professionals from both local and global companies. Students were invited to present and pitch software ideas to industry experts and engage in 15-minute discussions with them.
 
