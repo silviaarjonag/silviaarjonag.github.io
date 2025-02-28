@@ -10,6 +10,10 @@ labels:
   - Bootstrap 5
   - HTML/CSS
 --- 
+<img width="300px" 
+     class="rounded float-start pe-4" 
+     src="../img/bootstrap-5-layout.png" >
+     
 ## The Value of Bootstrap 5 in Web Development
 ##### Why Use a UI Framework?
 UI frameworks like Bootstrap 5 may seem complex at first, but they offer a lot of benefits that justify the learning curve. Raw HTML and CSS provide complete control over styling and layout, but they can be time-consuming, especially when it comes to larger projects. Bootstrap makes development simpler by offering pre-styled components and utility classes that allow for less repetitive CSS. This allows developers to focus on functionality and user experience rather than spending so much time on styling.
