@@ -11,7 +11,7 @@ labels:
 ---
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/TS.png" >
+     src="../img/architecture.png" >
 
 ## The Architecture Behind Good Design
 When you walk through a well-designed building — a skyscraper, a university campus, or a public library — you notice its design and beauty. What you don't immediately see are the architectural aspects that make these structures work: strategies for managing weight, making movement easy within them, and ensuring longevity. Behind every effective structure are solutions developed through years of experience and refinement.
