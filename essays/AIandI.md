@@ -21,8 +21,8 @@ Artificial Intelligence (AI) is transforming education and is being used in vari
 
 I'm fairly certain that I relied on ChatGPT for nearly every single Experience WOD throughout the course. In many cases, the instructions provided were somewhat ambiguous or difficult to interpret on their own, which made it challenging to proceed. To address this, I would copy and paste the instructions into ChatGPT in a structured manner:
 
-*Here is the overview of what we are doing:*
-*(Insert WOD overview here)*
+*Here is the overview of what we are doing:*<br>
+*(Insert WOD overview here)*<br>
 *I will now give you the given steps one by one and I want you to guide me through them.*
 
 ChatGPT would then respond by walking me through the steps clearly and logically, helping to clarify the purpose of each part. If reference images were available, I would include them to give Chat more context. The main benefit was how it made vague instructions more manageable, but the trade-off was that it sometimes led me to rely more on Chat than attempting to interpret unclear directions myself.
@@ -39,10 +39,10 @@ Similar to the Practice WODs, I used AI for every In-class WOD except the first.
 
 For some of the essay assignments, I chose to write everything myself because I found it easier to express my own thoughts directly. That said, I often used ChatGPT afterward to help improve what I wrote. I would say:
 
-*Here are the instructions for an essay I have to write for my ICS 314 class:*
-*(Insert essay instructions here)*
-*And here is what I have written:*
-*(Insert my written essay here)*
+*Here are the instructions for an essay I have to write for my ICS 314 class:*<br>
+*(Insert essay instructions here)*<br>
+*And here is what I have written:*<br>
+*(Insert my written essay here)*<br>
 *Please make sure it follows the requirements and change any sentences you need in order to correct grammar and improve flow/professionalism.*
 
 This was very effective. Chat preserved my tone while improving clarity and grammar. In other cases, I had Chat write the initial draft for me, and I would carefully edit it to match my own voice and ideas. The benefit here was saving time and producing more polished work, but I had to be cautious to ensure the final product still reflected my own understanding and avoided academic integrity issues.
@@ -79,7 +79,7 @@ I never asked AI for coding examples. Instead of asking for an example that I wo
 
 I often asked ChatGPT to explain lines of code, especially when the logic was getting complex or I had lost track of what a particular line did. I would usually say:
 
-*Can you explain what the following line you wrote does?*
+*Can you explain what the following line you wrote does?*<br>
 *(Insert line of code)*
 
 Chat would then respond with a clear and usually accurate explanation. This helped me re-engage with my own project and understand what was going on. The main benefit was clarity and comprehension, while the cost was minor; sometimes the explanation was too simplified or didn't match my exact context.
@@ -88,8 +88,8 @@ Chat would then respond with a clear and usually accurate explanation. This help
 
 This is one of the primary ways I used AI during the course. Whether it was for WODs, the final project, or other assignments, I used ChatGPT frequently to generate code. I often used this prompt format:
 
-*Here is the overview of what we are doing:*
-*(Insert task overview here)*
+*Here is the overview of what we are doing:*<br>
+*(Insert task overview here)*<br>
 *I will now give you the given steps one by one and I want you to guide me through them.*
 
 ChatGPT would then help me step-by-step, and I could provide feedback if something didn’t work as expected. The benefit was that it made the coding process much faster and allowed me to stay focused. The cost was that I sometimes didn’t think through the logic deeply myself, which could limit my ability to debug independently later on.
