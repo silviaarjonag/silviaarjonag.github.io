@@ -19,42 +19,55 @@ Artificial Intelligence (AI) is transforming education, especially in fields lik
 
 ## II. Personal Experience with AI
 <u>1. Experience WODs</u>
+
 I'm fairly certain that I relied on ChatGPT for nearly every single Experience WOD throughout the course. In many cases, the instructions provided were somewhat ambiguous or difficult to interpret on their own, which made it challenging to proceed confidently. To address this, I would input the instructions into ChatGPT in a structured manner:
 
 *Here is the overview of what we are doing:*
-*<Insert WOD overview here>*
+
+*Insert WOD overview here*
+
 *I will now give you the given steps one by one and I want you to guide me through them.*
 
 ChatGPT would then respond by walking me through the steps clearly and logically, often helping to clarify the purpose of each part. If reference images were available, I would include them to give Chat more context. The main benefit was how it made vague instructions more manageable, but the trade-off was that it sometimes led me to rely more on Chat than attempting to interpret unclear directions myself.
 
 <u>2. In-class Practice WODs</u>
+
 I used ChatGPT for every Practice WOD except the very first one. I wanted to challenge myself initially and complete it without external help, but after that, I realized that using AI significantly increased my efficiency. I followed a similar approach to the Experience WODs—giving ChatGPT the general goal first, and then feeding in each step one at a time. This helped not only with real-time progress but also allowed Chat to keep context in memory, which became especially helpful later when the actual WODs came up. The benefit was speed and clarity, but I may have missed some deeper conceptual understanding by not struggling through the problems unaided.
 
 <u>3. In-class WODs</u>
+
 Similar to the Practice WODs, I used AI for every In-class WOD except the first. That initial WOD was straightforward enough that I completed it without any issues, but for all others, I relied on ChatGPT to provide step-by-step assistance. I would begin by summarizing the objective, then prompt Chat to help me with each part individually. This allowed me to complete the tasks more confidently and reduced the risk of getting stuck. However, the cost was that I may not have developed as much independent problem-solving ability under timed conditions, which could affect performance in interviews or real-world coding assessments.
 
 <u>4. Essays<u/>
+
 For some of the essay assignments, I chose to write everything myself because I found it easier to express my own thoughts directly. That said, I often used ChatGPT afterward to help improve what I wrote. I would say:
 
 *Here are the instructions for an essay I have to write for my ICS 314 class:*
-*<Insert essay instructions here>*
+
+*Insert essay instructions here*
+
 *And here is what I have written:*
-*<Insert my written essay here>*
+
+*Insert my written essay here*
+
 *Please make sure it follows the requirements and change any sentences you need in order to correct grammar and improve flow/professionalism.*
 
 This was very effective. Chat preserved my tone while improving clarity and grammar. In other cases, I had Chat write the initial draft for me, and I would carefully edit it to match my own voice and ideas. The benefit here was saving time and producing more polished work, but I had to be cautious to ensure the final product still reflected my own understanding and avoided academic integrity issues.
 
 <u>5. Final project</>
+
 Without a doubt, I believe that ChatGPT played a major role in my success on the final project. I used it extensively—from naming our mockup to writing entire sections of code. For example, when brainstorming ideas for our app name, I prompted:
 
-*We were tasked with creating a webapp based on this link <insert link to StudyBuddy here> and have basically come up with a general idea to make something like Notion and StuddyBuddy combined. Can you give me ideas for names for this webapp?*
+*We were tasked with creating a webapp based on this link (insert link to StudyBuddy here) and have basically come up with a general idea to make something like Notion and StuddyBuddy combined. Can you give me ideas for names for this webapp?*
 
 ChatGPT generated several options and worked with me to refine them, which is how we eventually landed on “SyncdStudy.” The benefit was that it provided continuous support for both technical and creative tasks, but the cost was that I occasionally accepted suggestions without fully understanding the underlying logic—especially with longer files that Chat wrote quickly. I had to make an extra effort to read and learn from the code it produced.
 
 <u>6. Learning a concept / tutorial<u/>
+
 I rarely used AI to learn or understand abstract concepts from the course. I’ll admit that I focused more on how to get the code working than on the theoretical background. As a result, I didn’t prompt ChatGPT to explain tutorials or walkthroughs unless I encountered something that completely blocked me. The cost here is clear: I may have missed out on deeper conceptual learning that would help long-term, but the benefit was that I could complete practical tasks efficiently.
 
 <u>7. Answering a question in class or in Discord</u>
+
 I did not usually use AI for classroom or Discord discussions, with two exceptions: the debate and the Jeopardy game. During the Jeopardy activity, I would quickly type key phrases from the question into ChatGPT—for example:
 
 *in vs code F+ shift key*
@@ -62,56 +75,60 @@ I did not usually use AI for classroom or Discord discussions, with two exceptio
 Then I’d use the first result it returned to answer as quickly as possible. This method earned me 9 points in the game. The benefit was speed and accuracy, but the downside was that it didn’t actually build my knowledge; it was more about winning the game.
 
 <u>8. Asking or answering a smart-question</u>
+
 I don’t recall using AI for asking or answering any smart-questions in Discord. I generally didn’t participate in that part of the course. If I had, I probably would have written the question myself without relying on AI. In my view, asking a smart, clear question is something I feel capable of doing without external help. So while AI might assist with wording, the cost in this case would be unnecessary overuse.
 
 <u>9. Coding example e.g. “give an example of using Underscore .pluck”</u>
+
 I never asked AI for coding examples purely for educational purposes. Instead of asking for an example that I would study and replicate, I usually asked ChatGPT to write the code for me directly. I found this more efficient. The benefit was that I could complete tasks faster, but I recognize that I may have missed out on practicing how to build up examples myself, which is important for deeper learning.
 
 <u>10. Explaining code</>
+
 Yes, I often asked ChatGPT to explain lines of code—especially when the logic was getting complex or I had lost track of what a particular line did. I would usually say:
 
 *Can you explain what the following line you wrote does?*
-*<Insert line of code>*
+*Insert line of code*
 
 Chat would then respond with a clear and usually accurate explanation. This helped me re-engage with my own project and understand what was going on. The main benefit was clarity and comprehension, while the cost was minor—sometimes the explanation was too simplified or didn't match my exact context, so I had to be careful.
 
 <u>11. Writing code</>
+
 This is one of the primary ways I used AI during the course. Whether it was for WODs, the final project, or other assignments, I used ChatGPT frequently to generate code. I often used this prompt format:
 
 *Here is the overview of what we are doing:*
-*<Insert task overview here>*
-
+*Insert task overview here*
 *I will now give you the given steps one by one and I want you to guide me through them.*
 
 ChatGPT would then help me step-by-step, and I could provide feedback if something didn’t work as expected. The benefit was that it made the coding process much faster and allowed me to stay focused. The cost was that I sometimes didn’t think through the logic deeply myself, which could limit my ability to debug independently later on.
 
 <u>12. Documenting code</u>
+
 I didn’t personally write many comments in my code, but ChatGPT often included its own comments when generating code for me. These were actually helpful in understanding the purpose of each line. Since documenting our code was not formally required in the class, I didn’t prompt Chat specifically for that. The benefit was that documentation was generated automatically, but the cost is that I didn’t develop the habit of documenting code myself, which is a key skill in professional environments. 
 
-<u>13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</u>
-Absolutely—I used ChatGPT for this kind of troubleshooting many times. I often pasted code or copied error messages and asked Chat to help fix them. For instance, during the final project, I ran into this runtime error:
+<u>13. Quality assurance e.g. “What’s wrong with this code (code here)” or “Fix the ESLint errors in (code here)”</u>
 
-<p><em>\
+Absolutely, I used ChatGPT for this kind of troubleshooting many times. I often pasted code or copied error messages and asked Chat to help fix them. For instance, during the final project, I ran into this runtime error:
+
 When I sign in though, and go to calendar, I get this runtime error:
 
-Error: Rendered more hooks than during the previous render.
+*Error: Rendered more hooks than during the previous render.*
 
-Source
-src/app/(site)/calendar/page.tsx (67:56) @ CalendarPage
+*Source*
+*src/app/(site)/calendar/page.tsx (67:56) @ CalendarPage*
 
-  65 |   }
-  66 |
-> 67 |   const [currentDate, setCurrentDate] = useState<Date>(new Date());
-     |                                                        ^
-  68 |   const [currentView, setCurrentView] = useState<string>(Views.MONTH);
-  69 |   const [events, setEvents] = useState<CustomEvent[]>([]);, 
-  70 |   const [showModal, setShowModal] = useState(false);
-Call Stack
-</em></p>
+  *65 |   }*
+  *66 |*
+*> 67 |   const [currentDate, setCurrentDate] = useState<Date>(new Date());*
+     *|*                                                        ^
+  *68 |   const [currentView, setCurrentView] = useState<string>(Views.MONTH);*
+  *69 |   const [events, setEvents] = useState<CustomEvent[]>([]);,* 
+  *70 |   const [showModal, setShowModal] = useState(false);*
+*Call Stack*
 
 ChatGPT explained the meaning of the error and showed me how to fix it. The benefit was that it often resolved the issue much faster than manually debugging. However, the cost was that I sometimes fixed errors without fully understanding the root cause, which limited my growth in error handling.
 
 <u>14. Other uses in ICS 314 not listed </u>
+
 Looking back, I don’t think there were any other specific uses of AI in ICS 314 beyond what I’ve already described.
 
 
