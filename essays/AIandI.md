@@ -111,19 +111,21 @@ Absolutely, I used ChatGPT for this kind of troubleshooting many times. I often 
 
 When I sign in though, and go to calendar, I get this runtime error:
 
-*Error: Rendered more hooks than during the previous render.*
+```
+Error: Rendered more hooks than during the previous render.
 
-*Source*
-*src/app/(site)/calendar/page.tsx (67:56) @ CalendarPage*
+Source
+src/app/(site)/calendar/page.tsx (67:56) @ CalendarPage
 
-  *65 |   }*
-  *66 |*
-*> 67 |   const [currentDate, setCurrentDate] = useState<Date>(new Date());*
-     *|*                                                        ^
-  *68 |   const [currentView, setCurrentView] = useState<string>(Views.MONTH);*
-  *69 |   const [events, setEvents] = useState<CustomEvent[]>([]);,* 
-  *70 |   const [showModal, setShowModal] = useState(false);*
-*Call Stack*
+  65 |   }
+  66 |
+> 67 |   const [currentDate, setCurrentDate] = useState<Date>(new Date());
+     |                                                         ^
+  68 |   const [currentView, setCurrentView] = useState<string>(Views.MONTH);
+  69 |   const [events, setEvents] = useState<CustomEvent[]>([]);, 
+  70 |   const [showModal, setShowModal] = useState(false);
+Call Stack
+```
 
 ChatGPT explained the meaning of the error and showed me how to fix it. The benefit was that it often resolved the issue much faster than manually debugging. However, the cost was that I sometimes fixed errors without fully understanding the root cause, which limited my growth in error handling.
 
