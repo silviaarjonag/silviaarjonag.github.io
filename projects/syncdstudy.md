@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/littleboatcover.png
+image: img/title-ss.png
 title: "SyncdStudy"
 date: Spring 2025
 published: true
@@ -11,21 +11,17 @@ labels:
   - Software Development
 summary: "SyncdStudy is a web application that helps university students create, join, and manage course-specific study sessions."
 ---
-
-<div class="text-center p-4">
-  <img width="300px" src="../img/littleboat6.png" >
-  <img width="300px" src="../img/littleboat3.png" >
-  <img width="300px" src="../img/littleboat1.png" >
-  <img width="300px" src="../img/littleboat2.png" >
-  <img width="300px" src="../img/littleboat4.png" >
-  <img width="300px" src="../img/littleboat5.png" >
-</div>
-
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="../img/syncdstudy-homepage.png" >
 
 ## Overview
 SyncdStudy is a collaborative web application designed to help university students find, join, and organize study sessions for their courses. The platform allows users to browse available sessions, filter by course or time, and receive notifications when new sessions are created. Built with Next.js, Supabase, and PostgreSQL, the app aims to promote peer learning and improve academic engagement through shared scheduling tools.
 
 ## My Contributions
+<img width="500px" 
+     class="rounded float-end pe-4" 
+     src="../img/syncdstudy-aboutpage.png" >
 I worked as a full-stack developer and handled several core features of the application. My specific contributions included:
 - Implementing the admin dashboard, which displays user activity, study session calendars, and submitted reports.
 - Creating the 'Manage Users' interface for administrators, allowing them to view and manage registered students.
