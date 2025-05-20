@@ -4,7 +4,7 @@ type: essay
 title: "Asking the Right Way: Smart vs. Bad Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-30
-published: true
+published: false
 labels:
   - Smart Questions
   - Computer Science
