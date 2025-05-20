@@ -18,6 +18,8 @@ summary: "SyncdStudy is a web application that helps university students create,
 ## Overview
 SyncdStudy is a collaborative web application designed to help university students find, join, and organize study sessions for their courses. The platform allows users to browse available sessions, filter by course or time, and receive notifications when new sessions are created. Built with Next.js, Supabase, and PostgreSQL, the app aims to promote peer learning and improve academic engagement through shared scheduling tools.
 
+In addition to its core scheduling features, SyncdStudy includes user authentication, an admin dashboard for managing user activity, and a contact system that allows students to reach out with questions or concerns. Each user has access to a personalized calendar and session management tools, making it easy to keep track of their academic commitments. The interface is responsive and designed with accessibility in mind, ensuring usability across a wide range of devices. Overall, SyncdStudy helps foster a sense of academic community by making collaboration simple, efficient, and centralized.
+
 ## My Contributions
 <img width="500px" 
      class="rounded float-end pe-4" 
