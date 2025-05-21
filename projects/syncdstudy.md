@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/title-ss.png
+image: img/titlesyncd.png
 title: "SyncdStudy"
 date: Spring 2025
 published: true
